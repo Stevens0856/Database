@@ -1,0 +1,56 @@
+_*Kebijakan Privasi, Syarat Ketentuan dan Peraturan Bot*_
+_*Respon atau balasan yang dilakukan oleh BOT bukanlah dari manusia !.*_
+
+_*Dengan menggunakan Fitur Bot,*_
+_*maka kamu setuju dengan Peraturan maupun Syarat dan Ketentuan di bawah ini:*_
+
+*Kebijakan Privasi*
+_1. Bot tidak akan menyebarkan nomor users._
+_2. Bot tidak akan menyimpan media yang dikirimkan oleh users._
+_3. Owner berhak melihat data riwayat chat users._
+_4. Owner dapat melihat riwayat chat, dan media yang dikirimkan users._
+_5. Bot hanya menyimpan nomor kamu di dalam database sebagai nomor user._
+
+*Peraturan Bot*
+_1. Users dilarang menelfon maupun video call nomor bot._
+_2. Users dilarang mengirimkan berbagai bug, virtex, dll ke nomor bot._
+_3. Users diharap tidak melakukan spam dalam penggunaan bot._
+_4. Users dilarang menambahkan nomor bot secara illegal, untuk menambahkan silahkan hubungi owner._
+_5. Users dilarang melakukan spam terhadap bot secara terus menerus, sangsi ban permanent._
+_6. Users Dilarang Menelpon dan VC Bot bila melakukannya otomatis kamu akan diblokir._
+_7. Users Dilarang Menggunakan bot yang dapat merugikan bot dan orang lain._
+_8. Users Wajib Menggunakan fitur bot dengan bijak._
+
+
+*Syarat Ketentuan Bot*
+_1. Bot *tidak akan bertanggungjawab atas apapun yang users lakukan terhadap fitur bot serta gambar, video maupun media lainnya yang kamu dapatkan dari Bot ini..*_
+_2. Owner akan memberikan hukuman: block atau ban terhadap users yang melanggar peraturan._
+_3. Owner berhak memblokir user yang merugikan bot (berlaku untuk member premium juga)._
+_4. Owner berhak memblokir user yang melakukan hate speech kepada bot._
+_5. Owner berhak menghapus status premium user yang merugikan bot (bagi member premium)._
+
+*Note:*
+_1. Jika ada yang menjual/beli/sewa bot atas nomor ini, harap segera hubungi owner!_
+_2. Jika ada bug atau error pada fitur bot, saya mohon untuk lapor kepada owner._
+_2. Jika ingin donasi bisa langsung saja ketik /donasi_
+_3. Ketik /sewa jika ingin menyewa bot ini._
+_4. Owner tidak akan meminta apapun kepada pengguna bot._
+_5. Setiap user free mendapat 50 limit pemakaian per harinya._
+_6. Setiap command tertentu bagi user free menggunakan lebih dari 1 limit pemakaian._
+_7. Setiap jam 21:00 WIB, limit pemakaian akan direset._
+_8. Bot memiliki delay chat 10 detik._
+_9. Bot akan secara berkala dimonitoring oleh owner, jadi ada kemungkinan chat akan terbaca oleh owner._
+_10. Owner tidak menerima alasan apapun ketika kamu meminta unblokir dari bot._
+_11. Nomor member premium tidak bisa dipindahkan ke nomor baru._
+_12. Jika kamu diblokir oleh bot dan ingin membuka blokiran tersebut kamu harus membayar sebesar 5k._
+
+_Perlu kalian tahu bahwa kami menjaga privasi dari data-data anda!_
+
+ © NameBot | NameOwner
+ 
+ _*Contact Us*_
+• LinkPortfolio
+• LinkWebsite
+• MoreLink
+
+
