@@ -1,0 +1,15 @@
+{
+  "allowedIps": ["172.18.0.112","188.114.96.2","172.18.0.111"],
+  "users": [
+    {
+      "username": "NightCore",
+      "password": "SkyNeko",
+      "expires": "2025-10-07T12:00:00.000Z"
+    },
+    {
+      "username": "Trial",
+      "password": "Trial1",
+      "expires": "2024-10-16T12:00:00.000Z"
+    }
+  ]
+}
