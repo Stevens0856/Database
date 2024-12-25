@@ -1,5 +1,4 @@
 {
-  "allowedIps": ["172.18.0.112","172.18.0.26","172.18.0.23"],
   "users": [
     {
       "username": "NightCore",
